@@ -1,2 +1,2 @@
-# SP03_KIT_V4RC_Flexi
+# KIT_V4RC_Flexi
 SP03_KIT_V4RC_Flexi
